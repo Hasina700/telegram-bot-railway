@@ -53,6 +53,7 @@ asyncio.run(main())
 #keep_alive.py
 from flask import Flask
 from threading import Thread
+[requirements.1.txt](https://github.com/user-attachments/files/19819940/requirements.1.txt)
 
 app = Flask('')
 
