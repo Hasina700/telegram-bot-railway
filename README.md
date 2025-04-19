@@ -1,5 +1,8 @@
 # Telegram bot 
-[requirements (1).txt](https://github.com/user-attachments/files/19818382/requirements.1.txt)
+requirements.txt
+telethon
+python-dotenv
+flask
 #main.py
 from telethon import TelegramClient, events
 from telegram import Bot
